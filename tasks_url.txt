@@ -1,0 +1,5 @@
+https://api.catshouse.club/tasks/169/complete?answer=MAINNET
+https://api.catshouse.club/tasks/172/complete?answer=MARKET
+https://api.catshouse.club/tasks/174/complete?answer=LAMBO
+https://api.catshouse.club/tasks/175/complete?answer=LEDGER
+https://api.catshouse.club/tasks/176/complete?answer=BITCOINER
