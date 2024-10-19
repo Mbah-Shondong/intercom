@@ -1,10 +1,10 @@
 walletConnection;https://notpx.app/api/v1/mining/task/check/walletConnection
 jettonTask;https://notpx.app/api/v1/mining/task/check/jettonTask
 paint20pixels;https://notpx.app/api/v1/mining/task/check/paint20pixels
-name=notpixel;https://notpx.app/api/v1/mining/task/check/x?name=notpixel
-name=notcoin;https://notpx.app/api/v1/mining/task/check/x?name=notcoin
-name=notcoin;https://notpx.app/api/v1/mining/task/check/channel?name=notcoin
-name=notpixel_channel;https://notpx.app/api/v1/mining/task/check/channel?name=notpixel_channel
+x:notpixel;https://notpx.app/api/v1/mining/task/check/x?name=notpixel
+x:notcoin;https://notpx.app/api/v1/mining/task/check/x?name=notcoin
+channel:notcoin;https://notpx.app/api/v1/mining/task/check/channel?name=notcoin
+channel:notpixel_channel;https://notpx.app/api/v1/mining/task/check/channel?name=notpixel_channel
 joinSquad;https://notpx.app/api/v1/mining/task/check/joinSquad
 premium;https://notpx.app/api/v1/mining/task/check/premium
 leagueBonusGold;https://notpx.app/api/v1/mining/task/check/leagueBonusGold
@@ -14,6 +14,5 @@ leagueBonusPlatinum;https://notpx.app/api/v1/mining/task/check/leagueBonusPlatin
 makePixelAvatar;https://notpx.app/api/v1/mining/task/check/makePixelAvatar
 invite1fren;https://notpx.app/api/v1/mining/task/check/invite1fren
 invite3frens;https://notpx.app/api/v1/mining/task/check/invite3frens
-walletConnection;https://notpx.app/api/v1/mining/task/check/walletConnection
 boostChannelNotPixel;https://notpx.app/api/v1/mining/task/check/boostChannelNotPixel
 walletVerification;https://notpx.app/api/v1/mining/task/check/walletVerification
