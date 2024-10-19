@@ -7,7 +7,6 @@ channel:notcoin;https://notpx.app/api/v1/mining/task/check/channel?name=notcoin
 channel:notpixel_channel;https://notpx.app/api/v1/mining/task/check/channel?name=notpixel_channel
 joinSquad;https://notpx.app/api/v1/mining/task/check/joinSquad
 premium;https://notpx.app/api/v1/mining/task/check/premium
-leagueBonusGold;https://notpx.app/api/v1/mining/task/check/leagueBonusGold
 leagueBonusSilver;https://notpx.app/api/v1/mining/task/check/leagueBonusSilver
 spendStars;https://notpx.app/api/v1/mining/task/check/spendStars
 leagueBonusPlatinum;https://notpx.app/api/v1/mining/task/check/leagueBonusPlatinum
