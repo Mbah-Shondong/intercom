@@ -1,13 +1,14 @@
-daily-check-in
 vote-cspr-cmc
-stake-cspr-1021
+visit-forum-casper-network-1023
 read-fzideas-comic-1020
 vote-cspr-cg
+retweet-casper-1023
+daily-check-in
 watch-odra-introduction-youtube
+retweet-apocnft-1022
 read-fzideas-comic-1012
 read-newsletter-1016
 listen-episode25-podcast
-visit-forum-casper-network
 retweet-casper-1016
 follow-d3-twitter
 join-apoc-discord
@@ -51,5 +52,4 @@ subscribe-to-newsletter
 follow-casper-linkedin
 vote-dex-screener
 retweet-casper-1022
-retweet-apocnft-1022
 play-shiboo-pinata-1022
