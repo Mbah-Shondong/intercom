@@ -3,3 +3,4 @@
 71;dump
 72;depin
 73;dyor
+74;digital
