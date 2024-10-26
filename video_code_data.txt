@@ -1,2 +1,5 @@
 65;defi
 66;dip
+71;dump
+72;depin
+73;dyor
