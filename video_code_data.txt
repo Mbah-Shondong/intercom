@@ -4,3 +4,6 @@
 72;depin
 73;dyor
 74;digital
+77;difficulty
+78;discord
+81;dophin
