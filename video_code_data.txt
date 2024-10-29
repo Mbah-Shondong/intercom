@@ -8,3 +8,4 @@
 78;discord
 81;dophin
 82;dotsama
+85;dominance
