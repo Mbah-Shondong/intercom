@@ -7,3 +7,4 @@
 77;difficulty
 78;discord
 81;dophin
+82;dotsama
