@@ -9,3 +9,6 @@
 81;dophin
 82;dotsama
 85;dominance
+92;delisting
+93;dumping
+94;derivative
