@@ -4,9 +4,3 @@ Hot vs Cold Wallet?;Wallet
 What is Airdrop?;airdrop
 Coin vs Token?;Tokens
 What is TON?;Ton
-Learn Blockchain in 3 mins;Blockchain
-Crypto vs Blockchain?;Cryptocurrency
-Hot vs Cold Wallet?;Wallet
-What is Airdrop?;airdrop
-Coin vs Token?;Tokens
-What is TON?;Ton
