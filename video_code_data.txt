@@ -18,3 +18,4 @@
 105;deflation
 106;affiliate
 107;address
+108;airdrop
