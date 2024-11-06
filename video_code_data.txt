@@ -20,3 +20,5 @@
 107;address
 108;airdrop
 109;airnode
+116;wei
+117;alpha
