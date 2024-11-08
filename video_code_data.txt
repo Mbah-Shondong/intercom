@@ -25,3 +25,4 @@
 118;custody
 119;bag
 122;bakers
+123;altcoin
