@@ -27,3 +27,4 @@
 122;bakers
 123;altcoin
 124;baking
+125;antpool
