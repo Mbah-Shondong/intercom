@@ -28,3 +28,6 @@
 123;altcoin
 124;baking
 125;antpool
+129;apeing
+133;option
+134;bit
