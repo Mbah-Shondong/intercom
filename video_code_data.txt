@@ -31,3 +31,5 @@
 129;apeing
 133;option
 134;bit
+135;bitpay
+136;asset
