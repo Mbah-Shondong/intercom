@@ -33,3 +33,5 @@
 134;bit
 135;bitpay
 136;asset
+137;bits
+138;lambo
