@@ -1,3 +1,4 @@
+#10 Bullish and Bearish;bullrun
 #9 CEX vs DEX;okxeed
 #8 On-chain vs Off-chain;transaction
 #7 News affecting BTC price;btctothemoon
