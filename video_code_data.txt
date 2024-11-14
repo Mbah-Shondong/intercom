@@ -35,3 +35,5 @@
 136;asset
 137;bits
 138;lambo
+144;ledger
+145;mainnet
