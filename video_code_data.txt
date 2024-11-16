@@ -37,3 +37,6 @@
 138;lambo
 144;ledger
 145;mainnet
+147;asic
+151;market
+152;bitcoiner
