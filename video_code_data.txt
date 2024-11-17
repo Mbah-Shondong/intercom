@@ -40,3 +40,6 @@
 147;asic
 151;market
 152;bitcoiner
+153;bitstream
+154;block
+156;bot
