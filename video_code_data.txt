@@ -43,3 +43,4 @@
 153;bitstream
 154;block
 156;bots
+157;bounty
