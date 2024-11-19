@@ -44,3 +44,5 @@
 154;block
 156;bots
 157;bounty
+160;bridges
+161;bubble
