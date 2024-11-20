@@ -46,3 +46,5 @@
 157;bounty
 160;bridges
 161;bubble
+164;bull
+165;capital
