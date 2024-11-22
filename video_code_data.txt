@@ -48,3 +48,6 @@
 161;bubble
 164;bull
 165;capital
+176;change
+177;chargeback
+184;close
