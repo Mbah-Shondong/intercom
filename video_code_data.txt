@@ -52,3 +52,6 @@
 177;chargeback
 184;close
 185;cloud
+188;ciphertext
+191;circle
+192;client
