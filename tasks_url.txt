@@ -1,5 +1,3 @@
-EARN Money!;https://api.catshouse.club/tasks/307/complete?answer=CURRENCY
-Earn Online by Reuploading;https://api.catshouse.club/tasks/308/complete?answer=CUSTODIAL
-Reupload FREE videos;https://api.catshouse.club/tasks/306/complete?answer=CRYPTOLOGY
-Protect Your Investments!;https://api.catshouse.club/tasks/303/complete?answer=DUMP
-Stay Safe from Crypto Scams!;https://api.catshouse.club/tasks/300/complete?answer=DYOR
+YouTube Niches for Earning Big!;https://api.catshouse.club/tasks/317/complete?answer=DELISTING
+Blockchain Basics;https://api.catshouse.club/tasks/320/complete?answer=DEPIN
+Blockchain Really Works;https://api.catshouse.club/tasks/318/complete?answer=DEFI
