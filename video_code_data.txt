@@ -55,3 +55,6 @@
 188;ciphertext
 191;circle
 192;client
+194;asset
+197;dump
+198;depin
