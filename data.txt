@@ -1,3 +1,4 @@
+#18 What Affects Token Price?;posinegative
 #17 What is Listing?;seedtoken
 #16 BTC Price Prediction;200kBTC
 #15 What is Tokenomics?;seednomics
