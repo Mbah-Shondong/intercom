@@ -1,16 +1,5 @@
-walletConnection;https://notpx.app/api/v1/mining/task/check/walletConnection
-jettonTask;https://notpx.app/api/v1/mining/task/check/jettonTask
-paint20pixels;https://notpx.app/api/v1/mining/task/check/paint20pixels
-x:notpixel;https://notpx.app/api/v1/mining/task/check/x?name=notpixel
-x:notcoin;https://notpx.app/api/v1/mining/task/check/x?name=notcoin
-channel:notcoin;https://notpx.app/api/v1/mining/task/check/channel?name=notcoin
-channel:notpixel_channel;https://notpx.app/api/v1/mining/task/check/channel?name=notpixel_channel
-joinSquad;https://notpx.app/api/v1/mining/task/check/joinSquad
-leagueBonusSilver;https://notpx.app/api/v1/mining/task/check/leagueBonusSilver
-leagueBonusGold;https://notpx.app/api/v1/mining/task/check/leagueBonusGold
-spendStars;https://notpx.app/api/v1/mining/task/check/spendStars
-makePixelAvatar;https://notpx.app/api/v1/mining/task/check/makePixelAvatar
-invite1fren;https://notpx.app/api/v1/mining/task/check/invite1fren
-invite3frens;https://notpx.app/api/v1/mining/task/check/invite3frens
-boostChannelNotPixel;https://notpx.app/api/v1/mining/task/check/boostChannelNotPixel
-walletVerification;https://notpx.app/api/v1/mining/task/check/walletVerification
+Mine tokens, get rewards!;https://notpx.app/api/v1/mining/task/check/starHash
+Join $DUCK for Airdrop;https://notpx.app/api/v1/mining/task/check/duckChain
+Play Coinflip and get $TRMNL;https://notpx.app/api/v1/mining/task/check/trmnl
+Join the Frog team now!;https://notpx.app/api/v1/mining/task/check/frogApp
+Hold to Earn;https://notpx.app/api/v1/mining/task/check/earnCoin
