@@ -1,7 +1,2 @@
-MONEY AT AMAZON;https://api.catshouse.club/tasks/483/complete?answer=DIFFICULTY
-Maximize Your Savings;https://api.catshouse.club/tasks/487/complete?answer=GWEI
-Cash Back Apps;https://api.catshouse.club/tasks/484/complete?answer=CRYPTOASSET
-Job Without a Degree;https://api.catshouse.club/tasks/488/complete?answer=LAMBO
-Learned to Code !;https://api.catshouse.club/tasks/490/complete?answer=LEDGER
-Save Money on Shopping;https://api.catshouse.club/tasks/485/complete?answer=CRYPTOGRAPHY
-Earn Cash Back;https://api.catshouse.club/tasks/486/complete?answer=CRYPTOJACKING
+Blockchain Really Works;https://api.catshouse.club/tasks/502/complete?answer=DEFI
+Blockchain Basics;https://api.catshouse.club/tasks/503/complete?answer=DEPIN
