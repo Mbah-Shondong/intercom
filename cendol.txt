@@ -1,6 +1,8 @@
 vote-cspr-cmc-3
 vote-cspr-cg-3
 retweet-casper-0216
+follow-cspr-ceo-twitter-3
+retweet-casper-0217
 follow-router-protocol-twitter-3
 retweet-casper-0215
 follow-cspr-cto-twitter-3
