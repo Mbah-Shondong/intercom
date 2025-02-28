@@ -1,5 +1,8 @@
 vote-cspr-cmc-3
 vote-cspr-cg-3
+retweet-casper-0226
+follow-redstone-3
+join-casper-announcement-channel-3b
 follow-actus-twitter-3
 follow-fm-twitter-3
 view-makey-youtube-0221
